@@ -1,0 +1,18 @@
+numpy
+pandas
+scikit-learn   #face recognition
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models  # for detecting face embeddings
+
+setuptools<70.0.0  # it helps to install from git
+
+supabase   #database
+bcrypt      #hashing
+
+segno   #qrcode
+pillow  #image preprocessing/transformation.
+
+streamlit
+
+
+
