@@ -49,7 +49,7 @@ def style_base_layout():
                 
          /* Hide Top Bar of streamlit */
                 
-            MainMenu, footer, header {
+            #MainMenu, footer, header {
                 visibility: hidden;
             }
                 
@@ -58,6 +58,7 @@ def style_base_layout():
             }
 
             h1 {
+                color:#000 !important;
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 3.5rem !important;
                 line-height:1.1 1important;
@@ -66,6 +67,7 @@ def style_base_layout():
                 
 
             h2 {
+                color:#000 !important;
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 2rem !important;
                 line-height:0.9 !important;
@@ -75,8 +77,8 @@ def style_base_layout():
             h3, h4, p {
                 font-family: 'Outfit', sans-serif;    
             }
-                
-                
+
+ 
 
             button{
                 border-radius: 1.5rem !important;
