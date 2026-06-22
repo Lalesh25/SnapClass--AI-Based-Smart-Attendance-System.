@@ -49,7 +49,7 @@ def style_base_layout():
                 
          /* Hide Top Bar of streamlit */
                 
-            #MainMenu, footer, header {
+            MainMenu, footer, header {
                 visibility: hidden;
             }
                 
@@ -75,6 +75,7 @@ def style_base_layout():
             h3, h4, p {
                 font-family: 'Outfit', sans-serif;    
             }
+                
                 
 
             button{

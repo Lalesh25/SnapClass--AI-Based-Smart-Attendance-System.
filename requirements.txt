@@ -1,3 +1,4 @@
+streamlit
 numpy
 pandas
 scikit-learn   #face recognition
@@ -12,7 +13,10 @@ bcrypt      #hashing
 segno   #qrcode
 pillow  #image preprocessing/transformation.
 
-streamlit
 
+
+
+librosa  # edit audio files
+resemblyzer # created embedding for audio files
 
 
